@@ -29,7 +29,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Ranjith-M7/CODSOFT.git
+  git clone https://github.com/Ranjith-M7/flower-shop.git
 ```
 
 Go to the project directory
